@@ -24,6 +24,8 @@ The goal is to support data-driven decisions to enhance operational efficiency a
 <img width="1273" height="697" alt="Screenshot 2025-07-16 193810" src="https://github.com/user-attachments/assets/91121aff-e8c7-4b65-b951-ac29925b2563" />
 <img width="1267" height="694" alt="Screenshot 2025-07-16 194424" src="https://github.com/user-attachments/assets/d6da0775-066d-46d5-9a29-2ce1ce5545ee" />
 
+<a href="https://github.com/gayathridurai-Roboticsengineer/Hospital-data-analysis-dashboard/tree/main/Excel%20Files%20-%20Direct%20Import">Dataset</a>
+
 ## 📌 Insights Gained
 
 - Patient admissions are increasing, especially in high-demand departments.
